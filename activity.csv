@@ -1,1 +1,63 @@
-RGF0ZSxBY3Rpdml0eSBUeXBlLENvbnRlbnQsVXB2b3Rlcw0KMjAyMy0xMC0yMSAxNDoyOToxOCxQb3N0LCJFdGhlcmV1bSAoRVRIKSBQcmljZSBBbmFseXNpczogMy45MiUgSW5jcmVhc2UgaW4gdGhlIExhc3QgNyBEYXlzIGFzIG9mIE9jdG9iZXIgMjEsIDIwMjMiLDUNCjIwMjMtMTAtMTggMTE6NDk6MjEsUG9zdCxEb251dCAoRE9OVVQpIG9uIHRoZSBQYXRoIHRvIFJlY292ZXJ5OiBXaXRuZXNzaW5nIGEgUmVtYXJrYWJsZSAyNS4zNiUgU3VyZ2UgaW4gSnVzdCA2IEhvdXJzICEhLDI3DQoyMDIzLTEwLTEzIDA3OjE3OjI3LFBvc3QsIlJlZGRpdCBUb2tlbnMgUmlzaW5nIGluIGEgQmVhciBNYXJrZXQ6IE1PT04sIEJSSUNLLCBhbmQgRE9OVVQgUHJpY2UgV2F0Y2giLDYNCjIwMjMtMTAtMTAgMTI6MTk6MzAsUG9zdCwiR2l0Y29pbiwgYSBsZWFkaW5nIGNyeXB0byBkZXZlbG9wZXIgcGxhdGZvcm0sIGhhcyByZXBvcnRlZCBhIGxvc3Mgb2YgJDQ2MCwwMDAgZHVlIHRvIGEgdHJhbnNmZXIgZXJyb3IuIiwxMg0KMjAyMy0xMC0wOSAxMDoyOToyMSxQb3N0LPCfpJYgQ3Jpc3B5RG9udXRCb3QgVXBncmFkZTogTW9udGhseSBVc2VyIFN0YXRzIE5vdyBBdmFpbGFibGUgZm9yIHRoZSBDdXJyZW50IERpc3RyaWJ1dGlvbiBSb3VuZCBpbiByL2V0aHRyYWRlciEsMjMNCjIwMjMtMTAtMDggMDY6MDQ6MjAsUG9zdCwiQ3J5cHRvIEhhY2tpbmcgU3VyZ2U6IDE1MyUgSW5jcmVhc2UgaW4gUTMgMjAyMywgJDY4NSBNaWxsaW9uIGluIExvc3NlcyIsNQ0KMjAyMy0xMC0wNyAxNzoxNDozMSxQb3N0LCJEb251dCAoRE9OVVQpIFByaWNlIEdhaW5zIDcuMTMlIGluIDI0IEhvdXJzOiBUcmFkaW5nIFZvbHVtZSBJbmNyZWFzZXMgYnkgJDE2LDc0NS40OSIsOQ0KMjAyMy0xMC0wNiAxNTowODozMyxQb3N0LCJJcyBFdGhlcmV1bSBBYm91dCB0byBIaXQgJDIsMDAwPyBMZXQncyBUYWtlIGEgQ2xvc2VyIExvb2shIiwxOQ0KMjAyMy0xMC0wNCAxNDo0NTozNCxQb3N0LCJLZXZpbiBP4oCZTGVhcnkgd2FzIHBhaWQgJDE1LjcgbWlsbGlvbiBmb3IgdHdlbnR5IHNlcnZpY2UgaG91cnMsIHR3ZW50eSBzb2NpYWwgcG9zdHMgYW5kIGZpZnR5IGF1dG9ncmFwaHMgdG8gcHJvbW90ZSBGVFgiLDMyDQoyMDIzLTEwLTAyIDEyOjU1OjA4LFBvc3QsR3JheXNjYWxlIGhhcyBmaWxlZCAxOWItNCB0byBjb252ZXJ0IHRoZWlyICQ1YiBFdGhlcmV1bSBwcml2YXRlIHRydXN0ICRFVEhFIGludG8gYW4gRVRGLiwyNA0KMjAyMy0xMC0wMSAwOToxMjowNyxQb3N0LFNlZWtpbmcgRmVlZGJhY2sgb24gdGhlIEVzdGltYXRlZCBLYXJtYSBDYWxjdWxhdGlvbiBNZXRob2QgZm9yIHIvZXRodHJhZGVyLDkNCjIwMjMtMDktMzAgMTQ6MDg6NTgsUG9zdCxUaGUgRlRYIEhhY2tlciBob2xkaW5nIG92ZXIgJDMwME0gb2YgYXNzZXRzIGhhcyBtb3ZlZCBFVEggZm9yIHRoZSBmaXJzdCB0aW1lIHNpbmNlIDIwMjIuLDMwDQoyMDIzLTEwLTI3IDE0OjUwOjMyLENvbW1lbnQsIW15YWN0aXZpdHksMQ0KMjAyMy0xMC0yNyAxNDo0NTo0MCxDb21tZW50LCFteWFjdGl2aXR5LDENCjIwMjMtMTAtMjcgMTM6NTM6MzIsQ29tbWVudCwhbXlhY3Rpdml0eSwxDQoyMDIzLTEwLTI1IDA5OjIwOjE2LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTI1IDA5OjEzOjA5LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTI1IDA5OjA4OjEzLENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTI1IDA4OjU5OjI3LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTI1IDA4OjU2OjA5LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTI1IDA4OjU1OjA4LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTI1IDA4OjUyOjE2LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTEzIDE4OjM2OjMxLENvbW1lbnQsV2lmZSBtYXRlcmlhbCwyDQoyMDIzLTEwLTExIDA0OjQ3OjI4LENvbW1lbnQsIWNyeXB0byBkb251dCwxDQoyMDIzLTEwLTEwIDE5OjQwOjUwLENvbW1lbnQsRG9udXRzIGhhdmUgYXJyaXZlZCDwn42pLDQNCjIwMjMtMTAtMDkgMTU6NDI6NDEsQ29tbWVudCwiVGhhbmtzISAKClRpcHBpbmcgYm90IG11c3QgYmUgZG93biwgSSBndWVzcy4iLDINCjIwMjMtMTAtMDkgMTA6MzE6MjEsQ29tbWVudCwi8J+kliBDcmlzcHlEb251dEJvdCBVcGdyYWRlOiBNb250aGx5IFVzZXIgU3RhdHMgTm93IEF2YWlsYWJsZSBmb3IgdGhlIEN1cnJlbnQgRGlzdHJpYnV0aW9uIFJvdW5kIGluIHIvZXRodHJhZGVyIQoKWypodHRwczovL3d3dy5yZWRkaXQuY29tL3IvZXRodHJhZGVyL2NvbW1lbnRzLzE3M29objgvY3Jpc3B5ZG9udXRib3RcX3VwZ3JhZGVcX21vbnRobHlcX3VzZXJcX3N0YXRzXF9ub3cvKl0oaHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2V0aHRyYWRlci9jb21tZW50cy8xNzNvaG44L2NyaXNweWRvbnV0Ym90X3VwZ3JhZGVfbW9udGhseV91c2VyX3N0YXRzX25vdy8pCgogIW1vbnRobHlzdGF0cyIsMg0KMjAyMy0xMC0wOSAxMDowMzoyMixDb21tZW50LCFtb250aGx5c3RhdHMsMQ0KMjAyMy0xMC0wOSAwOTo1ODoyMSxDb21tZW50LCFtb250aGx5c3RhdHMsMQ0KMjAyMy0xMC0wOSAwOTo1Mjo0MyxDb21tZW50LCF1c2Vyc3RhdHMsMQ0KMjAyMy0xMC0wOSAwOTo1MDozOSxDb21tZW50LCF1c2Vyc3RhdHMsMQ0KMjAyMy0xMC0wOSAwOTo1MDozMCxDb21tZW50LCF1c2Vyc3RhdHMsMQ0KMjAyMy0xMC0wOSAwOTo0OToyMixDb21tZW50LCFtb250aGx5c3RhdHMsMQ0KMjAyMy0xMC0wOSAwOTo0ODo1MyxDb21tZW50LGhleSwxDQoyMDIzLTEwLTA5IDA5OjQ3OjM0LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTA5IDA5OjM3OjEzLENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTA5IDA5OjM1OjI1LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTA5IDA5OjMxOjQ2LENvbW1lbnQsIW1vbnRobHlzdGF0cywxDQoyMDIzLTEwLTA4IDA2OjA5OjI4LENvbW1lbnQsIioqQ3J5cHRvIEhhY2tpbmcgU3VyZ2U6IDE1MyUgSW5jcmVhc2UgaW4gUTMgMjAyMywgJDY4NSBNaWxsaW9uIGluIExvc3NlcyoqCgp0bGRyOwoKWypodHRwczovL3d3dy5yZWRkaXQuY29tL3IvZXRodHJhZGVyL2NvbW1lbnRzLzE3MnJxcHgvY3J5cHRvXF9oYWNraW5nXF9zdXJnZVxfMTUzXF9pbmNyZWFzZVxfaW5cX3EzXF8yMDIzXF82ODUvP3V0bVxfc291cmNlPXNoYXJlJnV0bVxfbWVkaXVtPXdlYjJ4JmNvbnRleHQ9MypdKGh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9ldGh0cmFkZXIvY29tbWVudHMvMTcycnFweC9jcnlwdG9faGFja2luZ19zdXJnZV8xNTNfaW5jcmVhc2VfaW5fcTNfMjAyM182ODUvP3V0bV9zb3VyY2U9c2hhcmUmdXRtX21lZGl1bT13ZWIyeCZjb250ZXh0PTMpCgpSZWFkIHRoZSBmdWxsIHJlcG9ydCBieSBJbW11bmVGaSAoUERGKS0qaHR0cHM6Ly9hc3NldHMuY3RmYXNzZXRzLm5ldC90M3dxeTcwdGMzYnYvMjgxRlBYM2c2bGl3dVdnbTFBR1lpUi9lMDVmNjc5ZmM4ODkwYzdmZGYzNGY0M2E1NTI4Yzg2Yi9JbW11bmVmaVxfQ3J5cHRvXF9Mb3NzZXNcX2luXF9RM1xfMjAyM1xfUmVwb3J0LnBkZioiLDUNCjIwMjMtMTAtMDYgMTU6NTY6MDksQ29tbWVudCwhY3J5cHRvIGRvbnV0LDENCjIwMjMtMTAtMDYgMTU6MTg6MDcsQ29tbWVudCwiRG8geW91IHRoaW5rIEV0aGVyZXVtJ3MgcHJpY2UgY291bGQgcmVhY2ggb3IgZXhjZWVkICQyLDAwMCB0aGlzIG1vbnRoID8iLDENCjIwMjMtMTAtMDYgMDY6MDE6MjgsQ29tbWVudCxVcGRhdGVkIGFjdHVhbCBkb251dHMgcmVjZWl2ZWQgZm9yIHJvdW5kIDEyOCDwn5GNLDMNCjIwMjMtMTAtMDYgMDY6MDA6MzEsQ29tbWVudCwhZG9udXQsMw0KMjAyMy0xMC0wNiAwNTo1ODoxOCxDb21tZW50LCFkb251dCwxDQoyMDIzLTEwLTA2IDA1OjUxOjUyLENvbW1lbnQsIWRvbnV0LDENCjIwMjMtMTAtMDUgMTY6MjM6MTksQ29tbWVudCwhZG9udXQsMQ0KMjAyMy0xMC0wNSAxMTozNjowNSxDb21tZW50LCFkb251dCwxDQoyMDIzLTEwLTAyIDE1OjM2OjE2LENvbW1lbnQsVGhhbmtzISwyDQoyMDIzLTEwLTAyIDE0OjEzOjIxLENvbW1lbnQsIk15IHJlY2VudCBwb3N0IHdlbnQgZnJvbSAxMCB1cHZvdGVzIHRvIDAgdXB2b3RlLiBBcmUgdGhlcmUgYXV0b21hdGVkIGJvdHMgZG93bnZvdGluZyBpbiB0aGlzIHN1YnJlZGRpdD8gRGlkIGFueW9uZSBleHBlcmllbmNlZCB0aGUgc2FtZSByZWNlbnRseT8KCmh0dHBzOi8vcmVkZGl0LmNvbS9yL2V0aHRyYWRlci9zL3NWYk1BRzYzSGsiLDcNCg==
+Date,Activity Type,Content,Upvotes
+2023-10-21 14:29:18,Post,"Ethereum (ETH) Price Analysis: 3.92% Increase in the Last 7 Days as of October 21, 2023",5
+2023-10-18 11:49:21,Post,Donut (DONUT) on the Path to Recovery: Witnessing a Remarkable 25.36% Surge in Just 6 Hours !!,27
+2023-10-13 07:17:27,Post,"Reddit Tokens Rising in a Bear Market: MOON, BRICK, and DONUT Price Watch",10
+2023-10-11 20:00:44,Post,Exploring an Estimated Karma Calculation Method for Subreddits: Seeking Insights and Validation on the Formula Used,10
+2023-10-10 12:19:30,Post,"Gitcoin, a leading crypto developer platform, has reported a loss of $460,000 due to a transfer error.",10
+2023-10-09 10:29:21,Post,🤖 CrispyDonutBot Upgrade: Monthly User Stats Now Available for the Current Distribution Round in r/ethtrader!,22
+2023-10-08 06:04:20,Post,"Crypto Hacking Surge: 153% Increase in Q3 2023, $685 Million in Losses",5
+2023-10-07 17:14:31,Post,"Donut (DONUT) Price Gains 7.13% in 24 Hours: Trading Volume Increases by $16,745.49",11
+2023-10-06 15:08:33,Post,"Is Ethereum About to Hit $2,000? Let's Take a Closer Look!",18
+2023-10-04 14:45:34,Post,"Kevin O’Leary was paid $15.7 million for twenty service hours, twenty social posts and fifty autographs to promote FTX",33
+2023-10-02 12:55:08,Post,Grayscale has filed 19b-4 to convert their $5b Ethereum private trust $ETHE into an ETF.,27
+2023-10-01 09:12:07,Post,Seeking Feedback on the Estimated Karma Calculation Method for r/ethtrader,8
+2023-09-30 14:08:58,Post,The FTX Hacker holding over $300M of assets has moved ETH for the first time since 2022.,32
+2023-10-27 15:27:54,Comment,!myactivity,1
+2023-10-25 09:20:16,Comment,!monthlystats,1
+2023-10-25 09:13:09,Comment,!monthlystats,1
+2023-10-25 09:08:13,Comment,!monthlystats,1
+2023-10-25 08:59:27,Comment,!monthlystats,1
+2023-10-25 08:56:09,Comment,!monthlystats,1
+2023-10-25 08:55:08,Comment,!monthlystats,1
+2023-10-25 08:52:16,Comment,!monthlystats,1
+2023-10-13 18:36:31,Comment,Wife material,2
+2023-10-11 04:47:28,Comment,!crypto donut,1
+2023-10-10 19:40:50,Comment,Donuts have arrived 🍩,5
+2023-10-09 15:42:41,Comment,"Thanks! 
+
+Tipping bot must be down, I guess.",2
+2023-10-09 10:31:21,Comment,"🤖 CrispyDonutBot Upgrade: Monthly User Stats Now Available for the Current Distribution Round in r/ethtrader!
+
+[*https://www.reddit.com/r/ethtrader/comments/173ohn8/crispydonutbot\_upgrade\_monthly\_user\_stats\_now/*](https://www.reddit.com/r/ethtrader/comments/173ohn8/crispydonutbot_upgrade_monthly_user_stats_now/)
+
+ !monthlystats",2
+2023-10-09 10:03:22,Comment,!monthlystats,1
+2023-10-09 09:58:21,Comment,!monthlystats,1
+2023-10-09 09:52:43,Comment,!userstats,1
+2023-10-09 09:50:39,Comment,!userstats,1
+2023-10-09 09:50:30,Comment,!userstats,1
+2023-10-09 09:49:22,Comment,!monthlystats,1
+2023-10-09 09:48:53,Comment,hey,1
+2023-10-09 09:47:34,Comment,!monthlystats,1
+2023-10-09 09:37:13,Comment,!monthlystats,1
+2023-10-09 09:35:25,Comment,!monthlystats,1
+2023-10-09 09:31:46,Comment,!monthlystats,1
+2023-10-08 06:09:28,Comment,"**Crypto Hacking Surge: 153% Increase in Q3 2023, $685 Million in Losses**
+
+tldr;
+
+[*https://www.reddit.com/r/ethtrader/comments/172rqpx/crypto\_hacking\_surge\_153\_increase\_in\_q3\_2023\_685/?utm\_source=share&utm\_medium=web2x&context=3*](https://www.reddit.com/r/ethtrader/comments/172rqpx/crypto_hacking_surge_153_increase_in_q3_2023_685/?utm_source=share&utm_medium=web2x&context=3)
+
+Read the full report by ImmuneFi (PDF)-*https://assets.ctfassets.net/t3wqy70tc3bv/281FPX3g6liwuWgm1AGYiR/e05f679fc8890c7fdf34f43a5528c86b/Immunefi\_Crypto\_Losses\_in\_Q3\_2023\_Report.pdf*",5
+2023-10-06 15:56:09,Comment,!crypto donut,1
+2023-10-06 15:18:07,Comment,"Do you think Ethereum's price could reach or exceed $2,000 this month ?",1
+2023-10-06 06:01:28,Comment,Updated actual donuts received for round 128 👍,4
+2023-10-06 06:00:31,Comment,!donut,3
+2023-10-06 05:58:18,Comment,!donut,1
+2023-10-06 05:51:52,Comment,!donut,1
+2023-10-05 16:23:19,Comment,!donut,1
+2023-10-05 11:36:05,Comment,!donut,1
+2023-10-02 15:36:16,Comment,Thanks!,2
+2023-10-02 14:13:21,Comment,"My recent post went from 10 upvotes to 0 upvote. Are there automated bots downvoting in this subreddit? Did anyone experienced the same recently?
+
+https://reddit.com/r/ethtrader/s/sVbMAG63Hk",7
